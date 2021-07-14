@@ -13,3 +13,4 @@
 
 * 本项目使用表单模板为ant design的组件，如需更改请在utils中plate、getText方法中进行更改
 * word文档中表格每列字段名称对应在utils文件中的transArrayKey方法中explain（目前是手动修改的），根据explain限制生成的表单是输入框/下拉选择/日期选择等
+* word文档解析成XML文件（document.xml），不要对生成的XML文件进行格式化
